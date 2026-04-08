@@ -6,11 +6,8 @@
 - 🤔 Estou buscando melhorar minhas habilidades em Python, Inteligência Artificial, Machine Learning e Engenharia de Prompt
 - 📫 Entre em contato comigo: raquelmoreira847@gmail.com
 
-## Frontend
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react)](https://skillicons.dev)
 
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,typescript)](https://skillicons.dev)
-
-## Banco de dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,typescript,mysql,postgresql)](https://skillicons.dev)
