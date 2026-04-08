@@ -7,13 +7,10 @@
 - 📫 Entre em contato comigo: raquelmoreira847@gmail.com
 
 ## Frontend
-  <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/984a4747-fe37-4260-8785-8ce116b8a83a" />
-  <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/0f8ab57e-a477-4ea3-81ce-e9468eb9bf1f" />
-  <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/8fa34ca5-713d-4f6b-bbf3-2b477a16e789" />
-  <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/1f0a367b-32ca-489e-b9ec-ada367a05b98" />
-  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react)](https://skillicons.dev)
+
 ## Backend
-<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/d9b67806-a8ec-4ad8-a250-fcf4c3beca12" />
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,typescript)](https://skillicons.dev)
 
 ## Banco de dados
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
