@@ -1,7 +1,7 @@
 ## Olá! Me chamo Raquel Moreira 👋
 
 - 🔭 Sou estudante de Ciência da Computação
-- 🌱 Trabalho com desenvolvimento para Salesforce e desenvolvimento full stack
+- 🌱 Trabalho com desenvolvimento Full Stack e para Salesforce
 - 👯 Estou em busca de uma oportunidade para construir carreira em desenvolvimento de software
 - 🤔 Estou buscando melhorar minhas habilidades em Python, Inteligência Artificial, Machine Learning e Engenharia de Prompt
 - 📫 Entre em contato comigo: raquelmoreira847@gmail.com
